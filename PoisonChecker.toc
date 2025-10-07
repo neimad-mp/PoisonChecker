@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: PoisonChecker
+## Notes: Warns if your rogue is missing mainhand or offhand poison.
+## Author: Gnoparts
+## Version: 1.40
+## SavedVariables: PoisonCheckerDB
+
+PoisonChecker.lua
